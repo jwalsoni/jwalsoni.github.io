@@ -1,7 +1,6 @@
 ---
 title: "Parameter Estimation for Electrode Degradation: Learning in the Face of Model-Experiment Discrepancies"
 collection: publications
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2022-05-11
 venue: 'Journal of Electrochemical Sociey'
 paperurl: 'https://iopscience.iop.org/article/10.1149/1945-7111/ac6c0e'
